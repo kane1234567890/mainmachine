@@ -1,0 +1,21 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "files.associations": {
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "array": "cpp",
+        "*.ipp": "cpp",
+        "mutex": "cpp",
+        "thread": "cpp",
+        "variant": "cpp",
+        "core": "cpp",
+        "*.txx": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

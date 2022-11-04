@@ -1,0 +1,8 @@
+prefix=/home/crs/mainmachine/devel
+
+Name: chibarobo_team_b
+Description: Description of chibarobo_team_b
+Version: 0.0.0
+Cflags: -I/home/crs/mainmachine/src/chibarobo_team_b/include
+Libs: -L${prefix}/lib -lchibarobo_team_b
+Requires: can_plugins

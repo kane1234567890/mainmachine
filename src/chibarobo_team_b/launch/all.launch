@@ -1,0 +1,12 @@
+<launch>
+    <node pkg="chibarobo_team_b" type="undercarriage" name="undercarriage" />
+    <node pkg="chibarobo_team_b" type="ball_ejector" name="ball_ejector" />
+    <node pkg="chibarobo_team_b" type="umbrella_unfolder" name="umbrella_unfolder" />
+
+    <!-- <node pkg="chibarobo_team_b" type="chibarobo_team_b" name="" /> -->
+
+
+    <!-- <rosparam command="load" file="$(find one_unit_robocon_2022)/launch/config.yaml"/> -->
+
+
+</launch>

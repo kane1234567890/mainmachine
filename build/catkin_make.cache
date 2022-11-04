@@ -1,0 +1,2 @@
+can_plugins:chibarobo_team_b
+-DCATKIN_DEVEL_PREFIX=/home/crs/mainmachine/devel -DCMAKE_INSTALL_PREFIX=/home/crs/mainmachine/install -G Unix Makefiles
